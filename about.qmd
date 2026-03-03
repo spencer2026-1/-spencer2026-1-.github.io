@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-image: profile.jpg
+image: assets/Profile Picture .jpeg
 about:
   template: jolla
   links:

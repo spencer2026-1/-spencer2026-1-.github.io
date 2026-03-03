@@ -1,0 +1,10 @@
+---
+title: "Your Project Title"
+author: "Your Name"
+date: today
+categories: [analysis, python]
+description: >
+  A brief description of your project.
+---
+
+
