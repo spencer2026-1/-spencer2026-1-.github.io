@@ -3,11 +3,13 @@ project:
 
 website:
   title: "My Portfolio"
-  navbar:
+  navbar: 
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - project/project.qmd
+
 
 format:
   html:
